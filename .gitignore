@@ -3,6 +3,7 @@ www
 .tmp
 .sass-cache
 app/bower_components
-plugins
-platforms
-.cordova
+plugins/*
+!plugins/.gitkeep
+platforms/*
+!platforms/.gitkeep

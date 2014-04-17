@@ -9,8 +9,10 @@ This assumes you already installed the development tools as explained in the pos
 
 
     git clone git@github.com:jesucarr/Getting-Started-PhoneGap.git
+    cd Getting-Started-PhoneGap
     npm install
     bower install
+    grunt build
     npm run installPhoneGapPlugins
     grunt serve
 
