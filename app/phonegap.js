@@ -1,0 +1,1 @@
+// phonegap.js: empty file that will be replaced by PhoneGap build

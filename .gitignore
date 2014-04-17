@@ -1,0 +1,8 @@
+node_modules
+www
+.tmp
+.sass-cache
+app/bower_components
+plugins
+platforms
+.cordova
